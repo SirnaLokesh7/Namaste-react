@@ -1,2 +1,2 @@
 # Namaste-react
-This is react application , learn react
+This is react application , learn react from
